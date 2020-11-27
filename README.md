@@ -24,3 +24,34 @@ Web ini menggunakan teknologi :
   - Font Awesome
   - Jquery
   - Mpdf
+  
+## Menggunakan 
+
+Langkah menggunakan WEB Laundry :
+  - Download
+  - Pindahkan ke htdocs
+  - Import database "web_laundry"
+  - Lakukan beberapa konfigurasi database di "load/config.php" jika diperlukan.
+  - Jalankan di Web Browser
+
+### Hak Akses
+
+Rizky Aidi (Admin)
+username : admin
+password : admin
+
+Rizky Aidil (Karyawan)
+username : rizkyaidil
+password : rizkyaidil
+
+Bluesloveyou (Karyawan)
+username : bluesloveyou
+password : bluesloveyou
+
+
+## About Me
+
+Rizky Aidil
+Instagram : @rizkyaidil.zaman / @bluesloveyou
+Gmail     : rizkyaidil.zaman@gmail.com
+Whatsapp  : +6285320357152
