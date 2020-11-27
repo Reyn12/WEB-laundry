@@ -9,6 +9,7 @@ Admin mampu mengelola
   - Paket
   - Karyawan
   - Transaksi
+ 
 Karyawan mampu mengelola
   - Pelanggan
   - Paket
@@ -36,22 +37,22 @@ Langkah menggunakan WEB Laundry :
 
 ### Hak Akses
 
-Rizky Aidi (Admin)
-username : admin
-password : admin
+Rizky Aidil (Admin)
+- username : admin
+- password : admin
 
 Rizky Aidil (Karyawan)
-username : rizkyaidil
-password : rizkyaidil
+- username : rizkyaidil
+- password : rizkyaidil
 
 Bluesloveyou (Karyawan)
-username : bluesloveyou
-password : bluesloveyou
+- username : bluesloveyou
+- password : bluesloveyou
 
 
 ## About Me
 
 Rizky Aidil
-Instagram : @rizkyaidil.zaman / @bluesloveyou
-Gmail     : rizkyaidil.zaman@gmail.com
-Whatsapp  : +6285320357152
+- Instagram : @rizkyaidil.zaman / @bluesloveyou
+- Gmail     : rizkyaidil.zaman@gmail.com
+- Whatsapp  : +6285320357152
