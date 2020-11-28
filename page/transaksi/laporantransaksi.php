@@ -71,5 +71,5 @@
   $date = date('d-M-Y');
   $mpdf->setFooter('{PAGENO}');
   $mpdf->WriteHTML($html);
-  $mpdf->Output($date. '-Laporan-Data-Paket.pdf', 'I');
+  $mpdf->Output($date. '-Laporan-Data-Transaksi.pdf', 'I');
 ?>
