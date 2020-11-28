@@ -56,7 +56,7 @@ Bluesloveyou (Karyawan)
 ### Rizky Aidil
 - Instagram : @rizkyaidil.zaman / @bluesloveyou
 - Gmail     : rizkyaidil.zaman@gmail.com
-- Whatsapp  : +6285320357152
+- Whatsapp  : +6282172824442
 
 ### Buy Me A Coofee
 Support terus Rizky Aidil dengan klik link dibawah ini
