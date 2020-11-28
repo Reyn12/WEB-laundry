@@ -4,6 +4,7 @@ Sistem Informasi Informasi Laundry adalah website sederhana yang dibuat dengan u
 ### Fitur
 
 Web ini memiliki 2 role yaitu Admin dan Karyawan.
+
 Admin mampu mengelola
   - Pelanggan
   - Paket
